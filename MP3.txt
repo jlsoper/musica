@@ -47,6 +47,7 @@
 ./AliceinChains/05Would.mp3
 ./America/TheCompleteGreatestHits/01AHorseWithNoName.mp3
 ./America/TheCompleteGreatestHits/03INeedYou.mp3
+./Autograph/02TurnUpTheRadio.mp3
 ./Beatles/1962-1966Disc1/01LoveMeDo.mp3
 ./Beatles/1962-1966Disc1/02PleasePleaseMe.mp3
 ./Beatles/1962-1966Disc1/03FromMeToYou.mp3
@@ -1046,6 +1047,7 @@
 ./SteelHeart/04IllNeverLetYouGo.mp3
 ./SteveMillerBand/02Abracadabra.mp3
 ./SteveMillerBand/08RocknMe.mp3
+./StevieNicks/05StopDragginMyHeartAround.mp3
 ./StevieRayVaughan/SRVGreatestHits/01Taxman.mp3
 ./StevieRayVaughan/SRVGreatestHits/02TexasFlood.mp3
 ./StevieRayVaughan/SRVGreatestHits/03TheHouseIsRockin.mp3
