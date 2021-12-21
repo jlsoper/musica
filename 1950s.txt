@@ -41,6 +41,7 @@
 ./TheElDorados/09AtMyFrontDoor_CrazyLittleMomaSong.mp3
 ./TheEverlyBrothers/05WakeUpLittleSusie.mp3
 ./TheEverlyBrothers/11ByeByeLove.mp3
+./TheFiveSatins/InTheStillOfTheNight.mp3
 ./ThePenguins/05EarthAngel.mp3
 ./ThePlatters/10TheGreatPretender.mp3
 ./ThePlatters/17OnlyYouAndYouAlone.mp3

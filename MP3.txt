@@ -439,6 +439,7 @@
 ./Erasure/TheInnocents/01-Erasure-ALittleRespect.mp3
 ./EricClapton/TheCreamofClapton/17WonderfulTonight.mp3
 ./EricClapton/Unplugged/04TearsinHeaven.mp3
+./EttaJames/04ASundayKindOfLove.mp3
 ./EttaJames/07AtLast.mp3
 ./Extreme/05MorethanWords.mp3
 ./FireHouse/05WhenILookIntoYourEyes.mp3
