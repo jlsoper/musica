@@ -245,6 +245,7 @@ MP3/Chicago/07HardtoSayImSorry.mp3
 MP3/Chicago/10YouretheInspiration.mp3
 MP3/Chicago/ChicagoIX-GreatestHits/03ColourMyWorld.mp3
 MP3/ChrisIsaak/BajaSessions/05IWonder.mp3
+MP3/ChrisStapleton/03-TennesseeWhiskey.mp3
 MP3/CienFuegos/Ofrenda-ATributeToTheLegendsOfCubanSon/01AmorVerdadero.mp3
 MP3/CienFuegos/Ofrenda-ATributeToTheLegendsOfCubanSon/02RitmoCubano.mp3
 MP3/CienFuegos/Ofrenda-ATributeToTheLegendsOfCubanSon/03ComeFue.mp3
@@ -642,6 +643,7 @@ MP3/JohnFogerty/Centerfield-Originalrecordi/07Centerfield.mp3
 MP3/JohnLennon/LennonLegendTheVeryBestofJohnLennon/01Imagine.mp3
 MP3/JohnLennon/LennonLegendTheVeryBestofJohnLennon/12JustLikeStartingOver.mp3
 MP3/JohnLennon/LennonLegendTheVeryBestofJohnLennon/13Woman.mp3
+MP3/JohnnyHatesJazz/02-ShatteredDreams.mp3
 MP3/Journey/03WhenYouLoveaWoman.mp3
 MP3/Journey/JourneyGreatestHits/01OnlyTheYoung.mp3
 MP3/Journey/JourneyGreatestHits/02DontStopBelievin.mp3
