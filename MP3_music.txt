@@ -587,9 +587,12 @@ MP3/Huayllipacha/SingingToTheEarth-MusicOfTheAndes/07-3deMayo.mp3
 MP3/Huayllipacha/SingingToTheEarth-MusicOfTheAndes/08SinPalabras.mp3
 MP3/Huayllipacha/SingingToTheEarth-MusicOfTheAndes/09Lejanias.mp3
 MP3/Huayllipacha/SingingToTheEarth-MusicOfTheAndes/10Tarpuy.mp3
+MP3/HueyLewisAndTheNews/04HopeYouLoveMeLikeYouSayYouDo.mp3
 MP3/HueyLewisAndTheNews/GreatestHits/01TheHeartOfRockandRoll.mp3
+MP3/HueyLewisAndTheNews/GreatestHits/02IWantANewDrug.mp3
 MP3/HueyLewisAndTheNews/GreatestHits/03ThePowerOfLove.mp3
 MP3/HueyLewisAndTheNews/GreatestHits/04JacobsLadder.mp3
+MP3/HueyLewisAndTheNews/GreatestHits/05StuckWithYou.mp3
 MP3/HueyLewisAndTheNews/GreatestHits/06DoingItAllForMyBaby.mp3
 MP3/HueyLewisAndTheNews/GreatestHits/07IfThisIsIt.mp3
 MP3/HueyLewisAndTheNews/GreatestHits/08DoYouBelieveInLove.mp3
