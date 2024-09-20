@@ -1102,6 +1102,7 @@ MP3/Tesla/TimeMakinChanges-TeslaBest/13ALotToLose.mp3
 MP3/Tesla/TimeMakinChanges-TeslaBest/14SteppinOver.mp3
 MP3/Tesla/TimeMakinChanges-TeslaBest/15Changes.mp3
 MP3/TheAnimals/01HouseOfTheRisingSun.mp3
+MP3/TheBeachBoys/05TheWarmthOfTheSun.mp3
 MP3/TheBeachBoys/TheGreatestHitsVol1/01SurfinSafari.mp3
 MP3/TheBeachBoys/TheGreatestHitsVol1/02SurfinUSA.mp3
 MP3/TheBeachBoys/TheGreatestHitsVol1/03SurferGirl.mp3
